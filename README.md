@@ -8,6 +8,9 @@ This project explains with a simple example of how to implement the view model i
   saved in ViewModel
 - It is destroyed only when activity is destroyed or when you press the back button and the application
   is closed and activity is destroyed.
+  
+## lifecycle of a ViewModel
+![ViewModel lifecycle](https://github.com/abhineshchandra1234/ViewModelApp/blob/master/images/viewmodel-lifecycle.png)
 
 ## App Screenshots
 
