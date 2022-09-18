@@ -1,12 +1,12 @@
 # ViewModel in kotlin
 
-This project explain with a simple example on how to implement view model in kotlin
+This project explains with a simple example of how to implement the view model in kotlin
 
-- ViewModel handles all the data for the ui
-- it is created when activity is created. It survives configuration changes.
-- when using ViewModel and suppose configuration changes or you switch app, old data will remain
+- ViewModel handles all the data for the UI
+- it is created when an activity is created. It survives configuration changes.
+- when using ViewModel and suppose configuration changes or you switch apps, old data will remain
   saved in ViewModel
-- It is destroyed only when activity is destroyed or when you press the back button and application
+- It is destroyed only when activity is destroyed or when you press the back button and the application
   is closed and activity is destroyed.
 
 ## App Screenshots
